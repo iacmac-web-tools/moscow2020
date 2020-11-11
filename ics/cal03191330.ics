@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:37fcd5e9-1cf8-4f56-9c10-27bbdf0ccb23
+SUMMARY:Безопасность применения антибиотиков у беременных
+DTSTAMP:20201111T133100Z
+DTSTART:20201008T103000Z
+DTEND:20201008T110000Z
+DESCRIPTION:Стецюк Ольга Ульяновна - кандидат медицинских наук\, старший на
+	учный сотрудник НИИ антимикробной химиотерапии ФГБОУ ВО «Смоленский госуда
+	рственный медицинский университет» Министерства здравоохранения Российской
+	 Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

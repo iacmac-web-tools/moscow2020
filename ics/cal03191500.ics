@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:c50b30b4-3719-431c-a0d9-f7a569aa6996
+SUMMARY:Сепсис: ключевые проблемы диагностики и лечения в РФ
+DTSTAMP:20201111T133100Z
+DTSTART:20201008T120000Z
+DTEND:20201008T123000Z
+DESCRIPTION:Кулабухов Владимир Витальевич - кандидат медицинских наук\, Пре
+	зидент Российского Сепсис Форума\, ведущий научный сотрудник ГБУЗ «НИИ ско
+	рой медицинской помощи им. Н.В. Склифосовского ДЗМ»\, г. Москва\, Россия
+END:VEVENT
+END:VCALENDAR

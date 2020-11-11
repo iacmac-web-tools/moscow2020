@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:25f5601a-8a4a-47f6-b32b-c6ebd8837aef
+SUMMARY:Информационные технологии в контроле антибиотикорезистентности
+DTSTAMP:20201111T133100Z
+DTSTART:20201009T065000Z
+DTEND:20201009T071500Z
+DESCRIPTION:Кузьменков Алексей Юрьевич - кандидат медицинских наук\, замест
+	итель директора по биоинформатике НИИ антимикробной химиотерапии ФГБОУ ВО 
+	«Смоленский государственный медицинский университет» Министерства здравоох
+	ранения Российской Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

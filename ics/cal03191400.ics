@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2c45a1d1-bf88-46e5-9caf-f0a24d206c1a
+SUMMARY:Антибиотикотерапия внебольничных инфекций мочевых путей у беременны
+	х
+DTSTAMP:20201111T133100Z
+DTSTART:20201008T110000Z
+DTEND:20201008T113000Z
+DESCRIPTION:Палагин Иван Сергеевич - ассистент кафедры урологии\, ФГБОУ ВО 
+	«Смоленский государственный медицинский университет» Министерства здравоох
+	ранения Российской Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

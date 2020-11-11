@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>20 марта - V Приволжская конференция по антимикробной терапии и клинической микробиологии</title>
+    <link>https://nn2020.iacmac.ru/categories/march-20/</link>
+    <description>Recent content in 20 марта on V Приволжская конференция по антимикробной терапии и клинической микробиологии</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 02 Mar 2020 09:15:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://nn2020.iacmac.ru/categories/march-20/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Пленарное заседание</title>
+      <link>https://nn2020.iacmac.ru/post/march-20-01-plenar/</link>
+      <pubDate>Mon, 02 Mar 2020 09:15:00 +0000</pubDate>
+      
+      <guid>https://nn2020.iacmac.ru/post/march-20-01-plenar/</guid>
+      <description>Сопредседатели: А.С. Благонравова, Н.Н. Климко, А.И. Синопальников</description>
+    </item><item>
+      <title>Симпозиум: «Сложные клинические ситуации»</title>
+      <link>https://nn2020.iacmac.ru/post/march-20-02-sym/</link>
+      <pubDate>Mon, 02 Mar 2020 09:15:00 +0000</pubDate>
+      
+      <guid>https://nn2020.iacmac.ru/post/march-20-02-sym/</guid>
+      <description>Сопредседатели: А.В. Дехнич, О.Н. Ершова, Д.А. Попов</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:fd32190a-c699-4d28-a429-040b922d43e0
+SUMMARY:Выбор антибиотика в лечении гнойно-некротических форм синдрома диаб
+	етической стопы
+DTSTAMP:20201111T133100Z
+DTSTART:20201009T102000Z
+DTEND:20201009T104500Z
+DESCRIPTION:Мотылёва Светлана Владимировна - врач-клинический фармаколог ГБ
+	УЗ НО «Городская больница №33» г. Нижний Новгород\, Россия
+END:VEVENT
+END:VCALENDAR

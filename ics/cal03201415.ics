@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:b646fc06-bed2-4926-9829-7ae3c37d3593
+SUMMARY:Klebsiella pneumoniae: баланс между эмпирической и этиотропной тера
+	пией
+DTSTAMP:20201111T133100Z
+DTSTART:20201009T111000Z
+DTEND:20201009T113500Z
+DESCRIPTION:Дехнич Андрей Владимирович - кандидат медицинских наук\, замест
+	итель директора по научной работе НИИ антимикробной химиотерапии ФГБОУ ВО 
+	«Смоленский государственный медицинский университет» Министерства здравоох
+	ранения Российской Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

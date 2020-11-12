@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:40e610aa-eb67-49d1-b40a-53a37f2b117f
+UID:64b82fd4-c136-4299-9126-dd4291787248
 SUMMARY:Реаниматолог\, пациент\, антибиотик: ожидания и реальность 
-DTSTAMP:20201112T102900Z
+DTSTAMP:20201112T105500Z
 DTSTART:20201009T152000Z
 DTEND:20201009T154000Z
 DESCRIPTION:Петрушин Максим Александрович - кандидат медицинских наук\, зав

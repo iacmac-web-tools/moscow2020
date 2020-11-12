@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2a99e28f-0e1f-4424-8fe4-b67d3c209612
+UID:27ac645e-2d90-4421-98a6-1240a0e777a5
 SUMMARY:Лабораторные информационные системы: нет лучшего решения для всех\,
 	 есть предпочтительное решение для конкретной лаборатории
-DTSTAMP:20201112T102900Z
+DTSTAMP:20201112T105500Z
 DTSTART:20201009T140500Z
 DTEND:20201009T143500Z
 DESCRIPTION:Трушин Иван Витальевич - младший научный сотрудник НИИ антимикр

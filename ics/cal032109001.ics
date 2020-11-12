@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:5209cd02-72a7-4da8-91d2-32a8d48895d1
+UID:0c1b84ef-75c8-4331-b1af-54db57e38c78
 SUMMARY:Микробиологические аспекты первичных иммунодефицитов и муковисцидоз
 	а
-DTSTAMP:20201112T102900Z
+DTSTAMP:20201112T105500Z
 DTSTART:20201009T060000Z
 DTEND:20201009T062000Z
 DESCRIPTION:Жестков Александр Викторович - заслуженный деятель науки РФ\, д

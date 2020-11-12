@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fdc930b9-cb8d-4bd7-94f8-4e31babb167d
+UID:f58c91ed-6075-45a0-acb3-f4f4fbf842b7
 SUMMARY:Бактериальные инфекции респираторного тракта в период пандемии: ост
 	ались ли они?
-DTSTAMP:20201112T102900Z
+DTSTAMP:20201112T105500Z
 DTSTART:20201009T085500Z
 DTEND:20201009T092000Z
 DESCRIPTION:Зырянов Сергей Кенсаринович - доктор медицинских наук\, професс

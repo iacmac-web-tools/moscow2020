@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:3312d38f-a601-4f7e-84d7-a4ecfced560f
+SUMMARY:Герпесвирусы и органная патология
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T091000Z
+DTEND:20201009T094000Z
+DESCRIPTION:Шахгильдян Василий Иосифович - кандидат медицинских наук\, Унив
+	ерситетская клиника «H-Clinic»\, г. Москва\, Россия
+END:VEVENT
+END:VCALENDAR

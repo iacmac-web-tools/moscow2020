@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:1d4e26d7-f449-477d-ae16-7732e6bcfeb3
+SUMMARY:Внутрибольничные инфекции у пациентов с COVID-19 в условиях реанима
+	ции
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T143500Z
+DTEND:20201009T145500Z
+DESCRIPTION:Орлова Ольга Евгеньевна  - кандидат биологических наук\, руково
+	дитель лаборатории микробиологии в городской клиничеcкой больнице № 67 име
+	ни Л.А. Ворохобова\, г. Москва\, Россия
+END:VEVENT
+END:VCALENDAR

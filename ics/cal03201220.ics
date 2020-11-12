@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:46e4845b-2ad1-48f2-84c3-f3c7c175932e
+SUMMARY:Инфекции и антибиотики: сложные ответы на простые вопросы
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T092000Z
+DTEND:20201009T094500Z
+DESCRIPTION:Андреева Ирина Вениаминовна - кандидат медицинских наук\, доцен
+	т\, старший научный сотрудник НИИ антимикробной химиотерапии ФГБОУ ВО «Смо
+	ленский государственный медицинский университет» Министерства здравоохране
+	ния Российской Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

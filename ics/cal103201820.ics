@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:40e610aa-eb67-49d1-b40a-53a37f2b117f
+SUMMARY:Реаниматолог\, пациент\, антибиотик: ожидания и реальность 
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T152000Z
+DTEND:20201009T154000Z
+DESCRIPTION:Петрушин Максим Александрович - кандидат медицинских наук\, зав
+	едующий реанимационным отделением №3 Областной клинической больницы\, г. Т
+	верь\, Россия
+END:VEVENT
+END:VCALENDAR

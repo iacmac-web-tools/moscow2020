@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:6cf07e16-a070-4f6c-84dc-de6c31165803
+SUMMARY:Внебольничная пневмония — ещё раз о клинических рекомендациях
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T094000Z
+DTEND:20201009T101000Z
+DESCRIPTION:Рачина Светлана Александровна - доктор медицинских наук\, профе
+	ссор кафедры внутренних болезней с курсом кардиологии и функциональной диа
+	гностики имени академика В.С. Моисеева\, ФГАОУ ВО «Российский университет 
+	дружбы народов»\, г. Москва\, Россия
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ac02e11b-edce-47be-9da1-c9ca5e2d40ae
+SUMMARY:Новые молекулярно-генетические технологии в диагностике инфекций
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T060000Z
+DTEND:20201009T063000Z
+DESCRIPTION:Шипулин Герман Александрович - кандидат медицинских наук\, заме
+	ститель директора ФГБУ «Центр стратегического планирования» Министерства з
+	дравоохранения Российской Федерации\, г. Москва\, Россия
+END:VEVENT
+END:VCALENDAR

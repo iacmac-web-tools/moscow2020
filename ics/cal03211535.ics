@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:e96a3ba4-4470-4631-bbdf-87ae4c0435ce
+SUMMARY:Спектрометрические методы расширенной микробиологической диагностик
+	и: новейшие разработки и инновации
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T130000Z
+DTEND:20201009T133000Z
+DESCRIPTION:Казаков Виктор Сергеевич - менеджер по продажам масс-спектромет
+	рического оборудования ООО «Брукер»\, г. Москва\, Россия
+END:VEVENT
+END:VCALENDAR

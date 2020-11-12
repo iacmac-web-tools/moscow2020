@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2639ba7b-7a28-4546-a2e5-8ca80e9f9a9b
+SUMMARY:Кто и что влияет на ваш выбор антибактериального препарата: рассужд
+	аем вместе
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T140000Z
+DTEND:20201009T143000Z
+DESCRIPTION:Рузанов Дмитрий Юрьевич - доктор медицинских наук\, профессор к
+	афедры фтизиопульмонологии\, проректор по лечебной работе УО «Гомельский г
+	осударственный медицинский университет» Министерства здравоохранения Респу
+	блики Беларусь\, г. Гомель\, Беларусь
+END:VEVENT
+END:VCALENDAR

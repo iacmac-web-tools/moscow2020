@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:87102d43-ad64-4d62-95b8-f385cc22eef2
+SUMMARY:Прорывные инвазивные грибковые инфекции в гематологии
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T150000Z
+DTEND:20201009T152000Z
+DESCRIPTION:Веселов Александр Валерьевич - кандидат медицинских наук\, заме
+	ститель директора по общим вопросам НИИ антимикробной химиотерапии ФГБОУ В
+	О «Смоленский государственный медицинский университет» Министерства здраво
+	охранения Российской Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

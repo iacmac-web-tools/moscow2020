@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:53794986-70e8-4727-8ed9-4bb2df74a039
+SUMMARY:Примеры выполненных и текущих проектов в AMRcloud
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T110000Z
+DTEND:20201009T114500Z
+DESCRIPTION:Елохина Елена Васильевна - кандидат медицинских наук\, клиничес
+	кий фармаколог БУЗОО «Областная клиническая больница»\, г. Омск
+END:VEVENT
+END:VCALENDAR

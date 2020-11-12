@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:b396db5c-4078-4007-a42e-d3f2263e3755
+SUMMARY:Принцип работы и обзор возможностей AMRcloud
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T083000Z
+DTEND:20201009T093000Z
+DESCRIPTION:Кузьменков Алексей Юрьевич - кандидат медицинских наук заместит
+	ель директора по биоинформатике НИИ антимикробной химиотерапии ФГБОУ ВО «С
+	моленский государственный медицинский университет» Министерства здравоохра
+	нения Российской Федерации
+END:VEVENT
+END:VCALENDAR

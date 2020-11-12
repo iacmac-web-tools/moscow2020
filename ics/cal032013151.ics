@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:bde4e535-5601-42eb-90d7-2490d92b7947
+SUMMARY:Примеры выполненных и текущих проектов в AMRcloud
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T101500Z
+DTEND:20201009T110000Z
+DESCRIPTION:Замятин  Михаил Николаевич - доктор медицинских наук\, профессо
+	р\, заведующий кафедрой анестезиологии и реаниматологии Института усоверше
+	нствования врачей ФГБУ «Национальный медико-хирургический Центр им. Н.И. П
+	ирогова» Министерства здравоохранения Российской Федерации\, г. Москва\, Р
+	оссия
+END:VEVENT
+END:VCALENDAR

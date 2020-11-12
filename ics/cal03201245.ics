@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:f5ede9ba-d09e-47a4-8e55-6e7c0ed0ab54
+SUMMARY:Антибиотикотерапия во время беременности и грудного вскармливания
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T094500Z
+DTEND:20201009T101000Z
+DESCRIPTION:Стецюк Ольга Ульяновна - кандидат медицинских наук\, старший на
+	учный сотрудник НИИ антимикробной химиотерапии ФГБОУ ВО «Смоленский госуда
+	рственный медицинский университет» Министерства здравоохранения Российской
+	 Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

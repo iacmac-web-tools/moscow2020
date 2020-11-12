@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:87b0786c-36ed-4fae-b775-70482a02a04b
+SUMMARY:Микробиологическая диагностика инфекций в ортопедии
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T120500Z
+DTEND:20201009T123500Z
+DESCRIPTION:Кимайкина Оксана Владимировна - врач клинической лаборатории\, 
+	ФГБУ «Федеральный центр травматологии\, ортопедии и эндопротезирования» Ми
+	нистерства здравоохранения Российской Федерации\, г. Барнаул\, Россия
+END:VEVENT
+END:VCALENDAR

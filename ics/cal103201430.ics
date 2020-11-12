@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:0f868f79-020d-4c07-9fab-dfefc370ee76
+SUMMARY:Пневмококковая инфекция у взрослых: уроки прошлого и реалии настоящ
+	его
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T113000Z
+DTEND:20201009T115500Z
+DESCRIPTION:Дехнич Андрей Владимирович - кандидат медицинских наук\, замест
+	итель директора по научной работе НИИ антимикробной химиотерапии ФГБОУ ВО 
+	«Смоленский государственный медицинский университет» Министерства здравоох
+	ранения Российской Федерации\, г. Смоленск\, Россия
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:78a2728b-420c-4844-b4a4-b90aa14f1adc
+SUMMARY:Вакцинация у пациентов с иммуносупрессией
+DTSTAMP:20201112T102900Z
+DTSTART:20201009T115500Z
+DTEND:20201009T122000Z
+DESCRIPTION:Харит Сусанна Михайловна - доктор медицинских наук\, профессор\
+	, руководитель отдела профилактики инфекционных заболеваний ФГБУ «Детский 
+	научно-клинический центр инфекционных болезней» Федерального медико-биолог
+	ического агентства\, г. Санкт-Петербург\, Россия
+END:VEVENT
+END:VCALENDAR

@@ -503,3 +503,38 @@ h5 {
 .warning {background-color: #ff9800;} /* Orange */
 .danger {background-color: #f44336;} /* Red */
 .other {background-color: #e7e7e7; color: black;} /* Gray */
+
+/* SEARCH ICON */
+
+.search-wrapper {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  margin: 0 auto;
+  background-color: #e6e6e6;
+}
+
+.search {
+  position: relative;
+  width: 200px;
+  margin: 0 auto;
+  padding: 50px 0;
+  text-align: center;
+}
+.search__circle {
+  width: 100px;
+  height: 100px;
+  border: 20px solid #333;
+  border-radius: 100px;
+}
+.search__rectangle {
+  position: absolute;
+  right: 0;
+  bottom: 30px;
+  width: 70px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  border: 12px solid #333;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}

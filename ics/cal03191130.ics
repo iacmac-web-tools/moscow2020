@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:b8aacd34-402a-4ac6-83f0-9bbd46c4474d
+UID:daf14b39-f492-4f1b-82ae-f083e23072cd
 SUMMARY:Профессиональный стандарт «Медицинский микробиолог»
-DTSTAMP:20201112T120400Z
+DTSTAMP:20201112T235300Z
 DTSTART:20201009T083000Z
 DTEND:20201009T090000Z
 DESCRIPTION:Васильева Наталья Всеволодовна - доктор биологических наук\, пр

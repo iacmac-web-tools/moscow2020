@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:06e99287-2097-415c-a271-647d869a4e97
+UID:347799a3-492b-4eba-b166-1ccaf92be746
 SUMMARY:Централизация лабораторной диагностики инфекций: «за» и «против»
-DTSTAMP:20201112T115000Z
+DTSTAMP:20201112T120400Z
 DTSTART:20201009T111000Z
 DTEND:20201009T114000Z
 DESCRIPTION:Припутневич Татьяна Валерьевна - доктор медицинских наук\, руко

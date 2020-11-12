@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:60da95bb-33ec-4fa3-8190-64a135d55c03
+UID:f4f0e9a9-ff4e-471c-98a9-5b7f42b91a45
 SUMMARY:Кто и что влияет на ваш выбор антибактериального препарата: рассужд
 	аем вместе
-DTSTAMP:20201112T115000Z
+DTSTAMP:20201112T120400Z
 DTSTART:20201009T140000Z
 DTEND:20201009T143000Z
 DESCRIPTION:Рузанов Дмитрий Юрьевич - доктор медицинских наук\, профессор к

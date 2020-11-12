@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:7a939921-3099-4a42-9250-2d89f730e6be
+UID:616127cd-4bcd-49ed-841d-4992c0dfbc14
 SUMMARY:Оценка чувствительности к цефтолозану/тазобактаму в РФ
-DTSTAMP:20201112T115000Z
+DTSTAMP:20201112T120400Z
 DTSTART:20201009T135000Z
 DTEND:20201009T140500Z
 DESCRIPTION:Эйдельштейн Михаил Владимирович - кандидат биологических наук\,

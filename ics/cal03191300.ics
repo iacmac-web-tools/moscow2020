@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:80097b57-b618-46f8-bc13-f74caf0fbc0a
+UID:76900b12-b984-460a-afd9-75ccfafcbe6d
 SUMMARY:Роль взаимодействий «лаборатория-клиника» в стратегии рационального
 	 применения антибиотиков
-DTSTAMP:20201112T105500Z
+DTSTAMP:20201112T115000Z
 DTSTART:20201009T100000Z
 DTEND:20201009T103000Z
 DESCRIPTION:С. Стефани - 

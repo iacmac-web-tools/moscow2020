@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:f19cc678-de79-4a12-b396-39ed049ffcc2
+UID:4f266b22-4eb0-4243-8c83-31cff9f15e98
 SUMMARY:Антимикробная терапия и профилактика в детской гематологии/онкологи
 	и: от официальных рекомендаций до индивидуального подхода
-DTSTAMP:20201113T085300Z
+DTSTAMP:20201113T091700Z
 DTSTART:20201009T073000Z
 DTEND:20201009T080000Z
 DESCRIPTION:Пимкин Максим Андреевич - кандидат медицинских наук\, Dana Farb

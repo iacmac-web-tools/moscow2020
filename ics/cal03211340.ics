@@ -5,11 +5,11 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:b5ef62ad-5cba-4cab-98f9-7e84b673da86
+UID:f511d5c3-006e-4e36-b35e-e08feec39c65
 SUMMARY:Интерпретация результатов микробиологического исследования — наскол
 	ько «положительный» результат положительный и насколько «отрицательный» ре
 	зультат отрицательный
-DTSTAMP:20201113T091700Z
+DTSTAMP:20201113T115000Z
 DTSTART:20201009T104000Z
 DTEND:20201009T111000Z
 DESCRIPTION:Азизов Илья Сулейманович - доктор медицинских наук\, руководите

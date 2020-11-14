@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ccf64de3-e6af-4b21-a0ce-8623a65aca03
+UID:387f718f-9283-4f01-a6b6-3637c06f98d4
 SUMMARY:Грибковые инфекции у пациентов с муковисцидозом
-DTSTAMP:20201113T115000Z
+DTSTAMP:20201114T112900Z
 DTSTART:20201009T072000Z
 DTEND:20201009T074000Z
 DESCRIPTION:Борзова Юлия Владимировна - кандидат медицинских наук\, заведую

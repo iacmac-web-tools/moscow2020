@@ -35,27 +35,15 @@ self.__precacheManifest = [
   },
   {
     "url": "/css/custom.css",
-    "revision": "2605d55972bcb7cadb119a0a5baf93b0"
+    "revision": "f25ed20738e82c8fe0fb19387043dbef"
   },
   {
-    "url": "/css/default-skin.min.css",
-    "revision": "7c6b78e5459946dfb4a0b92f1bc19d61"
-  },
-  {
-    "url": "/css/hugo-easy-gallery.css",
-    "revision": "d272072d58f0a8b67e4fccf9dd0801fc"
+    "url": "/css/jquery.fancybox.min.css",
+    "revision": "a2d42584292f64c5827e8b67b1b38726"
   },
   {
     "url": "/css/normalize.min.css",
     "revision": "36974225aa51d7b413c9a1cfb22e9c06"
-  },
-  {
-    "url": "/css/photoswipe.min.css",
-    "revision": "e76c272db771585c8a60d5e0197e7fbb"
-  },
-  {
-    "url": "/css/pswp-gallery.css",
-    "revision": "3aed8ad585149552c6ed4e3157c8710a"
   },
   {
     "url": "/font/LatoLatin-Black.eot",
@@ -354,16 +342,20 @@ self.__precacheManifest = [
     "revision": "21cc6e47594a4b6f98c1077e32b572ed"
   },
   {
-    "url": "/js/jquery-1.12.4.min.js",
-    "revision": "4f252523d4af0b478c810c2547a63e19"
+    "url": "/js/imagesloaded.pkgd.min.js",
+    "revision": "e2c1a80b99251b7b94726b41312fb160"
   },
   {
     "url": "/js/jquery-3.4.1.min.js",
     "revision": "f832e36068ab203a3f89b1795480d0d7"
   },
   {
-    "url": "/js/load-photoswipe.js",
-    "revision": "04697acbc90064c8cb82c324f8ad5baa"
+    "url": "/js/jquery.fancybox.min.js",
+    "revision": "49a6b4d019a934bcf83f0c397eba82d8"
+  },
+  {
+    "url": "/js/lazysizes.min.js",
+    "revision": "b80e49640d4794d4333d00db76ea22f7"
   },
   {
     "url": "/js/lunr-0.4.1.min.js",
@@ -376,18 +368,6 @@ self.__precacheManifest = [
   {
     "url": "/js/lunr.ru.min.js",
     "revision": "698a251fbfb5fa8d09540ac5f76b46a8"
-  },
-  {
-    "url": "/js/photoswipe-ui-default.min.js",
-    "revision": "9517baca43cd4e9cb23ff337fbc1baa1"
-  },
-  {
-    "url": "/js/photoswipe.min.js",
-    "revision": "f5cd6479c4e4682545a9603e6b50c741"
-  },
-  {
-    "url": "/js/pswp-init.js",
-    "revision": "241d797bd24f8bcfb90519498fc6d802"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {

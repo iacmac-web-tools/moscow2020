@@ -72,13 +72,44 @@ h6 {
   background-color: #a8a9ad;
 }
 
-.blog-card {
-  display: flex;
-  /* flex-direction: column;
-  align-items: stretch; */
-  flex-direction: row;
-  align-items: stretch;
+
+
+  .blog-card {
+    display: flex;
+    flex-direction: column;
+    align-items: normal;
+  }
+
+  .card-time-container {
+    padding: 1em;
+  }
+
+  .card-time-container-person > h1 {
+    margin: 0px;
+    max-width: 120px;
+  }
+
+@media screen and  (min-width:481px)  {
+  /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+  .blog-card {
+    display: flex;
+    flex-direction: row;
+    align-items: normal;
+  }
+
+  .card-time-container {
+    max-width: 120px;
+    padding: 1em;
+  }
+
+  .card-time-container > h1 {
+    /* color: black; */
+    margin: 0px;
+    max-width: 120px;
+  }
 }
+
+
 
 .card-img-container {
   position: relative;
@@ -100,6 +131,10 @@ h6 {
   flex-direction: row;
   justify-content: flex-start;
   align-items: stretch;
+}
+
+.card-body {
+  padding: 1em 1em;
 }
 
 .card-body-person {
@@ -222,9 +257,6 @@ h6 {
   }
 }
 
-@media screen and (min-width: 400) {
-}
-
 /* END OF CARDS */
 
 /* CUSTOM header */
@@ -235,10 +267,12 @@ h6 {
 
 .card-time-container {
   padding-left: 1em;
+  min-width: 120px;
 }
 
 .card-time-container > h1 {
   margin-bottom: 0;
+  min-width: 120px;
 }
 /* END CUSTOM HEADER */
 

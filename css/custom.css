@@ -72,24 +72,21 @@ h6 {
   background-color: #a8a9ad;
 }
 
+.blog-card {
+  display: flex;
+  flex-direction: column;
+  align-items: normal;
+}
 
+.card-time-container {
+  padding: 1em;
+}
 
-  .blog-card {
-    display: flex;
-    flex-direction: column;
-    align-items: normal;
-  }
+.card-time-container-person > h1 {
+  margin: 0px;
+}
 
-  .card-time-container {
-    padding: 1em;
-  }
-
-  .card-time-container-person > h1 {
-    margin: 0px;
-    max-width: 120px;
-  }
-
-@media screen and  (min-width:481px)  {
+@media screen and (min-width: 481px) {
   /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
   .blog-card {
     display: flex;
@@ -108,8 +105,6 @@ h6 {
     max-width: 120px;
   }
 }
-
-
 
 .card-img-container {
   position: relative;
@@ -213,7 +208,7 @@ h6 {
   flex-basis: 100%;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 481px) {
   .event-card {
     flex-wrap: nowrap;
   }
@@ -947,7 +942,6 @@ blockquote {
   font-size: 18px;
   border-left: 5px solid #387469;
   color: #387469;
-
 }
 
 blockquote.alignright {
@@ -964,7 +958,7 @@ blockquote.alignleft {
   float: left;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 481px) {
   blockquote.alignleft {
     max-width: 50%;
   }
@@ -1018,7 +1012,6 @@ a[data-fancybox] {
   padding: 4px;
   box-shadow: none;
   vertical-align: inherit;
-
 }
 
 .fancybox-caption {

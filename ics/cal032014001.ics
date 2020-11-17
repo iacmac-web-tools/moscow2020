@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:bbc5073d-41d0-45b6-adf3-b419a5598a5f
+UID:a201cb1c-dc62-47cf-91b8-f29695b2e57d
 SUMMARY:Примеры выполненных и текущих проектов в AMRcloud
-DTSTAMP:20201117T101600Z
+DTSTAMP:20201117T111600Z
 DTSTART:20201009T110000Z
 DTEND:20201009T114500Z
 DESCRIPTION:Елохина Елена Васильевна - кандидат медицинских наук\, клиничес

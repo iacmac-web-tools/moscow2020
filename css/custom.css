@@ -1019,3 +1019,27 @@ a[data-fancybox] {
   line-height: 1.5rem;
   text-align: center;
 }
+
+/* SPONSOR STYLES */
+
+.c {
+  text-align: center !important;
+}
+
+.sponsor-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+}
+
+.sponsor-container-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.sponsor-container-images > a {
+  margin: 1em;
+  border: 0;
+}

@@ -5,11 +5,13 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:a6cc0326-0800-4b95-8699-025d06a0daa4
+UID:9ab3633e-c5a6-4461-bfa3-5c97fbeb26fd
 SUMMARY:Пандемия COVID-19: итальянский опыт
-DTSTAMP:20201117T084100Z
+DTSTAMP:20201117T101600Z
 DTSTART:20201009T084000Z
 DTEND:20201009T091000Z
-DESCRIPTION:В. Самбри - 
+DESCRIPTION:Витторио Самбри - MD\, PhD\, профессор Университета Болоньи (ре
+	гион Эмилия-Романья\, Италия)\, заведующий отделением микробиологии Лабора
+	тория Университета Болоньи (регион Эмилия-Романья\, Италия)
 END:VEVENT
 END:VCALENDAR

@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2be02ad0-95f2-4355-a8a5-c5b2c554c226
+UID:d8ebedb1-d1d9-4f45-a87d-5de7d357fdb3
 SUMMARY:Глобальные перспективы развития вакцинопрофилактики
-DTSTAMP:20201117T114400Z
+DTSTAMP:20201117T114700Z
 DTSTART:20201009T063000Z
 DTEND:20201009T070000Z
 DESCRIPTION:МакИнтош Дэвид - профессор\, почётный главный лектор Имперского

@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3ba21943-c758-49c4-80da-56e7a1cdb64c
+UID:da3195f0-a439-49ae-b63d-7d88511c0ea1
 SUMMARY:Инфекции и антибиотики: сложные ответы на простые вопросы
-DTSTAMP:20201117T114700Z
+DTSTAMP:20201118T082800Z
 DTSTART:20201009T092000Z
 DTEND:20201009T094500Z
 DESCRIPTION:Андреева Ирина Вениаминовна - кандидат медицинских наук\, доцен

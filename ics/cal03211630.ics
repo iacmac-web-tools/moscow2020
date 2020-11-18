@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:0a0276c6-e469-45cb-b060-fd9216d6e468
+UID:a30341d3-1328-4e17-96d2-6cfdc16c8f53
 SUMMARY:Диагностика и терапия инфекций\, вызванных карбапенеморезистентными
 	 энтеробактериями: пример одного стационара
-DTSTAMP:20201117T114700Z
+DTSTAMP:20201118T082800Z
 DTSTART:20201009T133000Z
 DTEND:20201009T135000Z
 DESCRIPTION:Баранцевич Елена Петровна - доктор медицинских наук\, заведующа

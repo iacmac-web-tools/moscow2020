@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:c2295c71-5173-415c-981e-7d2c5a391967
+UID:1f89ab91-c896-469a-98da-86f3e270750c
 SUMMARY:Трансплантация фекальной микробиоты. Бактерии — друзья или враги?
-DTSTAMP:20201117T114700Z
+DTSTAMP:20201118T082800Z
 DTSTART:20201009T070000Z
 DTEND:20201009T073000Z
 DESCRIPTION:Голощапов Олег Валерьевич - заведующий ОРиИТ №3 НИИ детской онк

@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:86f7397b-0f3d-44d6-8bf9-5f6e85c86bad
+UID:e0e06075-9649-4dfe-86f5-8dc12ba82bd5
 SUMMARY:Клинический фармаколог в РФ: кто это сейчас\, кто это должен быть в
 	 будущем?
-DTSTAMP:20201117T114700Z
+DTSTAMP:20201118T082800Z
 DTSTART:20201009T123000Z
 DTEND:20201009T130000Z
 DESCRIPTION:Елисеева Екатерина Валерьевна - доктор медицинских наук\, профе

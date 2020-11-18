@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:88d98060-7dc3-4f20-b42c-05e4f51a71c3
+UID:9acff24c-a9af-4a07-acba-f1a9f75852f0
 SUMMARY:Нетуберкулёзные микобактерии у пациентов с муковисцидозом: актуальн
 	ость выделения в рутинной микробиологической практике
-DTSTAMP:20201117T114700Z
+DTSTAMP:20201118T082800Z
 DTSTART:20201009T070000Z
 DTEND:20201009T072000Z
 DESCRIPTION:Лямин Артем Викторович  - кандидат медицинских наук\, доцент ка

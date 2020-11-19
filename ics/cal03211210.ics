@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:5ead548e-bfc3-4541-bb8f-399cc30b3ddb
+UID:c458eeb9-8ccf-4d0f-9a2b-8d59c531fd39
 SUMMARY:Герпесвирусы и органная патология
-DTSTAMP:20201119T143900Z
+DTSTAMP:20201119T184100Z
 DTSTART:20201009T091000Z
 DTEND:20201009T094000Z
 DESCRIPTION:Шахгильдян Василий Иосифович - кандидат медицинских наук\, Унив

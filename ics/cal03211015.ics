@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:b70ddd61-0e40-46b9-8ad5-6bb47865d6b5
+UID:f9b223c3-ccdb-40e6-8b32-fa99e78fe38d
 SUMMARY:Результаты первого этапа проекта «Эффективный стационар»: антибиоти
 	копрофилактика и антибиотикотерапия
-DTSTAMP:20201119T085200Z
+DTSTAMP:20201119T115400Z
 DTSTART:20201009T071500Z
 DTEND:20201009T074000Z
 DESCRIPTION:Зубарева Надежда Анатольевна - доктор медицинских наук\, профес

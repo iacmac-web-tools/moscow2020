@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:977593c3-245e-48dd-994d-bda1ff132041
+UID:5602225d-c530-49b0-9fa1-94e6e694ae60
 SUMMARY:Рекомендации МАКМАХ по определению чувствительности к антимикробным
 	 препаратам\, версия 2020
-DTSTAMP:20201119T085200Z
+DTSTAMP:20201119T115400Z
 DTSTART:20201009T152000Z
 DTEND:20201009T160000Z
 DESCRIPTION:Сухорукова Марина Витальевна - кандидат медицинских наук\, руко

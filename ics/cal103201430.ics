@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:507442bc-8548-4204-b3e5-7d232bdf0d82
+UID:680c5a29-0f61-4cce-8050-1dfb973c6d1e
 SUMMARY:Пневмококковая инфекция у взрослых: уроки прошлого и реалии настоящ
 	его
-DTSTAMP:20201119T085200Z
+DTSTAMP:20201119T115400Z
 DTSTART:20201009T113000Z
 DTEND:20201009T115500Z
 DESCRIPTION:Дехнич Андрей Владимирович - кандидат медицинских наук\, замест

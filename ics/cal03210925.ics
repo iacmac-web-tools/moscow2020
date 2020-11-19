@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:52d6e921-6758-4990-9acc-932d971167a2
+UID:f69da54e-ee58-43b1-bef8-053288d7b3ed
 SUMMARY:Проект «Эффективный стационар»: философия\, первые результаты и век
 	тор дальнейшего развития
-DTSTAMP:20201119T085200Z
+DTSTAMP:20201119T115400Z
 DTSTART:20201009T062500Z
 DTEND:20201009T065000Z
 DESCRIPTION:Кулабухов Владимир Витальевич - кандидат медицинских наук\, пре

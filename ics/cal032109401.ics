@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:7f1f202e-7117-4d52-b49f-0fdbef760439
+UID:08dfc769-0b45-4981-bc48-ab78825c552e
 SUMMARY:Нерешённые вопросы определения клинической значимости микроорганизм
 	ов при муковисцидозе
-DTSTAMP:20201119T083100Z
+DTSTAMP:20201119T085200Z
 DTSTART:20201009T064000Z
 DTEND:20201009T070000Z
 DESCRIPTION:Кондратенко Ольга Владимировна - кандидат медицинских наук\, до

@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:5e3f24bd-e4bf-4f03-9ce9-ffffc7dfea6b
+UID:0fc248a1-3500-40f0-8327-1bc2847a58ed
 SUMMARY:Обратная эволюция антибиотикорезистентности: возможно ли?  
-DTSTAMP:20201119T065800Z
+DTSTAMP:20201119T081500Z
 DTSTART:20201009T060000Z
 DTEND:20201009T063000Z
 DESCRIPTION:Чеботарь Игорь Викторович - доктор медицинских наук\, заведующи

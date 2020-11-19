@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d5d6e8d2-f649-48d3-9f29-2807e65c2310
+UID:f6dc12c6-f068-4020-8553-f7aee767768c
 SUMMARY:Антибактериальная терапия сепсиса: что нам говорят рекомендации и д
 	оказательная медицина
-DTSTAMP:20201119T065800Z
+DTSTAMP:20201119T081500Z
 DTSTART:20201009T081000Z
 DTEND:20201009T084000Z
 DESCRIPTION:Киров Михаил Юрьевич - доктор медицинских наук\, профессор\, за

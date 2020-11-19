@@ -25,6 +25,11 @@ h6 {
   color: #387469;
 }
 
+
+#branddate {
+  display: none;
+}
+
 /* CONTENT */
 .content {
   width: 100% !important;
@@ -86,6 +91,7 @@ h6 {
   margin: 0px;
 }
 
+
 @media screen and (min-width: 481px) {
   /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
   .blog-card {
@@ -93,6 +99,11 @@ h6 {
     flex-direction: row;
     align-items: normal;
   }
+
+  #branddate {
+    display: block;
+  }
+
 
   .card-time-container {
     max-width: 120px;

@@ -35,7 +35,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/css/custom.css",
-    "revision": "a2347750e118996b457310b3fda5d5d1"
+    "revision": "9df71e79f15d7a11225b6d6aac8f7970"
   },
   {
     "url": "/css/jquery.fancybox.min.css",

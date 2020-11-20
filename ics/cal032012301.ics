@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:949d971f-9cfa-48c4-b2ab-a29088544b9e
+UID:342ace82-7ea9-46d8-a0ae-ccb456d1949b
 SUMMARY:Форматирование исходных данных\, их процессинг и анализ
-DTSTAMP:20201120T065000Z
+DTSTAMP:20201120T082700Z
 DTSTART:20201009T093000Z
 DTEND:20201009T101500Z
 DESCRIPTION:Виноградова Алина Геннадьевна - научный сотрудник НИИ антимикро

@@ -1135,3 +1135,13 @@ a[data-fancybox] {
 .container-sponsor {
   padding: 2px 16px;
 }
+
+/* Pagination text */
+.white {
+  color: white !important;
+  font-size: larger;
+}
+
+a.pagination-text {
+  text-decoration: none;
+}

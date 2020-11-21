@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:c2e3d798-a1f3-45fb-9eac-3045613dfb5c
+UID:46c1e5b9-a5d1-42f5-96b9-337eb09e0c35
 SUMMARY:Национальные рекомендации по нозокомиальной пневмонии — «Status pra
 	esence»
-DTSTAMP:20201121T095600Z
+DTSTAMP:20201121T101600Z
 DTSTART:20201009T063000Z
 DTEND:20201009T070000Z
 DESCRIPTION:Белоцерковский Борис Зиновьевич - кандидат медицинских наук\, д

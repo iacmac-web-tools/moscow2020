@@ -5,14 +5,13 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:426e5020-cf37-4376-9572-081300b52f12
-SUMMARY:Прорывные инвазивные грибковые инфекции в гематологии
-DTSTAMP:20201121T173700Z
+UID:ca2869cf-2b79-4fe7-a76b-775b313ff5d9
+SUMMARY:Антимикробная терапия и профилактика в детской гематологии/онкологи
+	и: от официальных рекомендаций до индивидуального подхода
+DTSTAMP:20201122T120700Z
 DTSTART:20201009T150000Z
 DTEND:20201009T152000Z
-DESCRIPTION:Веселов Александр Валерьевич - кандидат медицинских наук\, заме
-	ститель директора по общим вопросам НИИ антимикробной химиотерапии ФГБОУ В
-	О «Смоленский государственный медицинский университет» Министерства здраво
-	охранения Российской Федерации\, г. Смоленск\, Россия
+DESCRIPTION:Пимкин Максим Андреевич - Dana-Farber Cancer Institute\, Boston
+	 Children's Hospital\, Harvard Medical School\, Boston\, USA
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4f673862-ce99-40cc-8fee-b5baa4e34526
+UID:412c9033-9af7-431d-aa95-1166a97839b8
 SUMMARY:Глобальные и российские тенденции рынка антимикробных лекарственных
 	 препаратов
-DTSTAMP:20201123T060700Z
+DTSTAMP:20201123T110400Z
 DTSTART:20201009T073000Z
 DTEND:20201009T080000Z
 DESCRIPTION:Федоров Денис Александрович - Национальный менеджер по инноваци

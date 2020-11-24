@@ -1145,3 +1145,10 @@ a[data-fancybox] {
 a.pagination-text {
   text-decoration: none;
 }
+
+.card-title-black {
+  margin: 0;
+line-height: 1.2;
+font-size: 1.27em;
+color: black;
+}

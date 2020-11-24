@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:832359a4-b827-4c09-8ddd-dbe237edb961
+UID:5616cb83-ddec-4ed6-a6a2-cd0c1ddeaed6
 SUMMARY:Вакцинация у пациентов с иммуносупрессией
-DTSTAMP:20201124T102200Z
+DTSTAMP:20201124T191700Z
 DTSTART:20201009T115500Z
 DTEND:20201009T122000Z
 DESCRIPTION:Харит Сусанна Михайловна - доктор медицинских наук\, профессор\

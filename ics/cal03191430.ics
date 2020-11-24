@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8508a036-a480-48ce-9d54-492f2115e51b
+UID:9e7a0265-97d4-4be4-bf7a-22a2a379b173
 SUMMARY:Ведение пациентов с инфекциями\, вызванными проблемными возбудителя
 	ми: административные барьеры и пути их преодоления
-DTSTAMP:20201124T191700Z
+DTSTAMP:20201124T194000Z
 DTSTART:20201009T113000Z
 DTEND:20201009T120000Z
 DESCRIPTION:Шлык Ирина Владимировна - доктор медицинских наук\, профессор к

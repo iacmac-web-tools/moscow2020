@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ebc6a628-2fca-4210-be5e-3922b721df0c
+UID:4c21470c-cad8-4407-a9ea-967fb1559495
 SUMMARY:Роль взаимодействий «лаборатория-клиника» в стратегии рационального
 	 применения антибиотиков
-DTSTAMP:20201124T191700Z
+DTSTAMP:20201124T194000Z
 DTSTART:20201009T100000Z
 DTEND:20201009T103000Z
 DESCRIPTION:Стефания Стефани - профессор микробиологии\, президент Итальянс

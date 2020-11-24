@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:09cfa517-de5e-4e0e-b36b-9aad1c1bd15b
+UID:d4fbd855-85e1-4055-86c0-903232b6b857
 SUMMARY:Рациональная антибактериальная терапия в педиатрической практике
-DTSTAMP:20201124T072000Z
+DTSTAMP:20201124T102200Z
 DTSTART:20201009T130000Z
 DTEND:20201009T133000Z
 DESCRIPTION:Солдатова Ирина Геннадьевна - доктор медицинских наук\, професс

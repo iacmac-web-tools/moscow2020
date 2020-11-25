@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ded3ed40-028d-4826-9714-577b9d003e0f
+UID:a7164527-1fee-4f72-90a0-c6b734806c6a
 SUMMARY:Внутрибольничные инфекции у пациентов с COVID-19 в условиях реанима
 	ции
-DTSTAMP:20201125T100600Z
+DTSTAMP:20201125T231900Z
 DTSTART:20201009T143500Z
 DTEND:20201009T145500Z
 DESCRIPTION:Орлова Ольга Евгеньевна  - кандидат биологических наук\, руково

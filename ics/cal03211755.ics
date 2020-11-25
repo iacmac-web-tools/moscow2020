@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:1e82b3b6-feac-496a-b518-80a05eb45161
+UID:e1e8d4db-b7f0-48fd-a4e6-fd197e10641a
 SUMMARY:Современные ингибитор-защищённые цефалоспорины или проверенные врем
 	енем карбапенемы?
-DTSTAMP:20201125T100600Z
+DTSTAMP:20201125T231900Z
 DTSTART:20201009T145500Z
 DTEND:20201009T152000Z
 DESCRIPTION:Сидоренко Сергей Владимирович - профессор кафедры медицинской м

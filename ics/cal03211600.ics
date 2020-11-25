@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:b8590bcc-4f1c-4d25-9082-b66207bd63f5
+UID:846e10c6-1f24-4404-badc-5435d6846ab8
 SUMMARY:Спектрометрические методы расширенной микробиологической диагностик
 	и: новейшие разработки и инновации
-DTSTAMP:20201125T100600Z
+DTSTAMP:20201125T231900Z
 DTSTART:20201009T130000Z
 DTEND:20201009T133000Z
 DESCRIPTION:Казаков Виктор Сергеевич - менеджер по продажам масс-спектромет

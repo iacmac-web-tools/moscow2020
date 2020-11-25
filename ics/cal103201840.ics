@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:7ddce68b-9c94-4324-8eff-4eba58f4aa60
+UID:4870bafd-288f-4cb6-99e1-c7f3129c09bc
 SUMMARY:Фармакокинетика антибиотиков у пациентов в ОРИТ — есть ли шанс обес
 	печить адекватный режим дозирования?
-DTSTAMP:20201125T100600Z
+DTSTAMP:20201125T231900Z
 DTSTART:20201009T154000Z
 DTEND:20201009T161000Z
 DESCRIPTION:Сычев Игорь Николаевич - кандидат медицинских наук\, заведующий

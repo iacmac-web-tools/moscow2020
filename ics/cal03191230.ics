@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4aa6c7bb-b748-4c16-a561-142614d43d49
+UID:7de7f86a-6577-4536-b0ce-498ae8601e97
 SUMMARY:Оценка состояния антибиотикорезистентности Pseudomonas aeruginosa: 
 	важные фрагменты
-DTSTAMP:20201125T100600Z
+DTSTAMP:20201125T231900Z
 DTSTART:20201009T093000Z
 DTEND:20201009T100000Z
 DESCRIPTION:Эйдельштейн Михаил Владимирович - кандидат биологических наук\,

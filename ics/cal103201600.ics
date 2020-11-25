@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:426acad4-948d-44fe-a9b4-5fd08f5a3a10
+UID:e124a413-06b5-428f-bcbd-0f513d63fc2c
 SUMMARY:Перспективы антибактериальной терапии: наука и реальность
-DTSTAMP:20201125T100600Z
+DTSTAMP:20201125T231900Z
 DTSTART:20201009T130000Z
 DTEND:20201009T134500Z
 DESCRIPTION:Джон Рекс - Главный медицинский специалист\, F2G\, Манчестер\, 

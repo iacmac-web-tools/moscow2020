@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:e77d3ebd-9d28-49ae-8a79-683b2ebee4e2
+UID:8270e2fe-c0a8-4fbb-be98-c41d05000777
 SUMMARY:Новые клинические исследования у пациентов с сепсисом: что интересн
 	ого?
-DTSTAMP:20201125T100600Z
+DTSTAMP:20201125T231900Z
 DTSTART:20201009T060000Z
 DTEND:20201009T062500Z
 DESCRIPTION:Руднов Владимир Александрович - доктор медицинских наук\, профе

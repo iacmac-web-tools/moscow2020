@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ac64d826-9678-431e-9483-9a1670147551
+UID:de5d4def-fcc0-4e49-86b4-b53107ab62d3
 SUMMARY:Новые разработки и перспективы лечения и профилактики грибковых инф
 	екций
-DTSTAMP:20201126T113900Z
+DTSTAMP:20201126T151800Z
 DTSTART:20201009T070000Z
 DTEND:20201009T073000Z
 DESCRIPTION:Климко Николай Николаевич - доктор медицинских наук\, профессор

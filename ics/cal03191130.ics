@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:24571a02-8d08-4f28-b6ac-dbd392b0493e
+UID:a4cb07f7-a504-4aa2-9ac4-698518b651dd
 SUMMARY:Профессиональный стандарт «Медицинский микробиолог» и правила прове
 	дения микробиологических исследований: образовательная траектория
-DTSTAMP:20201126T113900Z
+DTSTAMP:20201126T151800Z
 DTSTART:20201009T083000Z
 DTEND:20201009T090000Z
 DESCRIPTION:Васильева Наталья Всеволодовна - доктор биологических наук\, пр

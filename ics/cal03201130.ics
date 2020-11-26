@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:aba43f17-5ce9-4d58-9d34-e692f593afa1
+UID:6c1b3da6-1c7f-4acf-a372-d52d0c6f2250
 SUMMARY:Пандемия COVID-19 — «пандемия» антибактериальной терапии
-DTSTAMP:20201126T113900Z
+DTSTAMP:20201126T151800Z
 DTSTART:20201009T083000Z
 DTEND:20201009T085500Z
 DESCRIPTION:Синопальников Александр Игоревич - доктор медицинских наук\, пр

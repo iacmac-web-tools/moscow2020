@@ -368,6 +368,26 @@ self.__precacheManifest = [
   {
     "url": "/js/lunr.ru.min.js",
     "revision": "698a251fbfb5fa8d09540ac5f76b46a8"
+  },
+  {
+    "url": "/js/pdf-js/build/pdf.js",
+    "revision": "e83eb3f34cb5acbed981bfe0a06ea461"
+  },
+  {
+    "url": "/js/pdf-js/build/pdf.worker.js",
+    "revision": "b3c415adffc3ab488c3963fce37aeea8"
+  },
+  {
+    "url": "/js/pdf-js/web/debugger.js",
+    "revision": "91039ba238afa6385a19bf24feb0a530"
+  },
+  {
+    "url": "/js/pdf-js/web/viewer.css",
+    "revision": "d83affd2586a5f58ccef89d67dda1a8b"
+  },
+  {
+    "url": "/js/pdf-js/web/viewer.js",
+    "revision": "15598361272b604442e6b6599d985e86"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {

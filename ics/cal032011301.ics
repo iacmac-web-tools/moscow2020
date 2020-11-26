@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:065c9a72-ffdc-4edc-a194-d4113f0a18bd
+UID:0f0c0dd2-561a-4b0c-ae73-951eceaec18d
 SUMMARY:Принцип работы и обзор возможностей AMRcloud
-DTSTAMP:20201126T075800Z
+DTSTAMP:20201126T113900Z
 DTSTART:20201009T083000Z
 DTEND:20201009T093000Z
 DESCRIPTION:Кузьменков Алексей Юрьевич - кандидат медицинских наук заместит

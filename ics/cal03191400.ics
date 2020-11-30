@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ea591ae9-a0a5-48ee-b981-14c7ba3a4d2c
+UID:dc75246b-a1ac-4134-a701-24a50ebb570f
 SUMMARY:Клинические рекомендации\, стандарты и порядки оказания медицинской
 	 помощи: вчера\, сегодня\, завтра
-DTSTAMP:20201126T151800Z
+DTSTAMP:20201130T102400Z
 DTSTART:20201009T110000Z
 DTEND:20201009T113000Z
 DESCRIPTION:Омельяновский Виталий Владимирович - доктор медицинских наук\, 

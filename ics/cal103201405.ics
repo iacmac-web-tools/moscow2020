@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ecbbf6d9-25db-44a5-9b7c-e07934e3f234
+UID:c86b245f-c4d4-4f1a-8708-6042ca027e10
 SUMMARY:Вакцинация как перспективное направление контроля антибиотикорезист
 	ентности
-DTSTAMP:20201126T151800Z
+DTSTAMP:20201130T102400Z
 DTSTART:20201009T110500Z
 DTEND:20201009T113000Z
 DESCRIPTION:Козлов Роман Сергеевич - доктор медицинских наук\, профессор\, 

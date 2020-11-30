@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:70972c9f-227e-460c-bb86-8de60e8a8bf4
+UID:dad6fa19-b97e-4e2e-a881-ce863d760344
 SUMMARY:Стратегия обеспечения безопасности медицинской помощи в стационаре
-DTSTAMP:20201126T151800Z
+DTSTAMP:20201130T102400Z
 DTSTART:20201009T120000Z
 DTEND:20201009T123000Z
 DESCRIPTION:Сычев Дмитрий Алексеевич - доктор медицинских наук\, профессор\

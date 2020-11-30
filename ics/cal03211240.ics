@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8db5e175-c5c0-4bb9-ba1f-9a6010153eb9
+UID:ff4e9043-fda6-4172-a643-0f1956f9add9
 SUMMARY:Внебольничная пневмония — ещё раз о клинических рекомендациях
-DTSTAMP:20201126T151800Z
+DTSTAMP:20201130T102400Z
 DTSTART:20201009T094000Z
 DTEND:20201009T101000Z
 DESCRIPTION:Рачина Светлана Александровна - доктор медицинских наук\, завед

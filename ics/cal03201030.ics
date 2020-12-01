@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:0e6a6b66-6dc8-4596-89cf-a66df38da2b2
+UID:9c761bc6-8f04-48d1-b3ae-841e7fc07bbc
 SUMMARY:Прорывные инвазивные грибковые инфекции в гематологии
-DTSTAMP:20201201T101900Z
+DTSTAMP:20201201T125600Z
 DTSTART:20201009T073000Z
 DTEND:20201009T080000Z
 DESCRIPTION:Веселов Александр Валерьевич - кандидат медицинских наук\, заме

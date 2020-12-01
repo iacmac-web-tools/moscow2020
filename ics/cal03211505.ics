@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fff9eb44-17ff-40fc-9bbb-26919d8622a7
+UID:932e5d65-f73e-4fee-96ab-3eb342e2052f
 SUMMARY:Микробиологическая диагностика инфекций в ортопедии
-DTSTAMP:20201201T101900Z
+DTSTAMP:20201201T125600Z
 DTSTART:20201009T120500Z
 DTEND:20201009T123500Z
 DESCRIPTION:Кимайкина Оксана Владимировна - врач клинической лаборатории\, 

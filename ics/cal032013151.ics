@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fbb35d4f-933b-42c5-9020-dc5cd7048d00
+UID:95ddf7b6-4c1f-4c8c-a9b7-90e4a5f7f5f1
 SUMMARY:Примеры выполненных и текущих проектов в AMRcloud
-DTSTAMP:20201130T113300Z
+DTSTAMP:20201130T235900Z
 DTSTART:20201009T101500Z
 DTEND:20201009T110000Z
 DESCRIPTION:Замятин  Михаил Николаевич - доктор медицинских наук\, профессо

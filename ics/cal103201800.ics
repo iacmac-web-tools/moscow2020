@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9472ad69-5b48-40fb-a982-06c16b87bc56
+UID:6bd1f4c3-29a8-491d-9d3e-22ba1401cfde
 SUMMARY:Антимикробная терапия и профилактика в детской гематологии/онкологи
 	и: от официальных рекомендаций до индивидуального подхода
-DTSTAMP:20201204T124000Z
+DTSTAMP:20201207T103400Z
 DTSTART:20201009T150000Z
 DTEND:20201009T152000Z
 DESCRIPTION:Пимкин Максим Андреевич - Dana-Farber Cancer Institute\, Boston

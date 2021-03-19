@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:83b709c2-084c-47c3-b23f-24f17176a72a
+UID:415fdd54-0e00-4bb7-b16c-7a3308c8022d
 SUMMARY:Антибиотикотерапия во время беременности и грудного вскармливания
-DTSTAMP:20210311T082000Z
+DTSTAMP:20210319T102800Z
 DTSTART:20201009T094500Z
 DTEND:20201009T101000Z
 DESCRIPTION:Стецюк Ольга Ульяновна - кандидат медицинских наук\, старший на

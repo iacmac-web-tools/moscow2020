@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:196fb10f-be71-44d1-be38-5522c67213bd
+UID:4526cd81-28af-4ffb-bb9c-0582b880359c
 SUMMARY:Новые молекулярно-генетические технологии в диагностике инфекций
-DTSTAMP:20210319T102800Z
+DTSTAMP:20250823T184600Z
 DTSTART:20201009T060000Z
 DTEND:20201009T063000Z
 DESCRIPTION:Шипулин Герман Александрович - кандидат медицинских наук\, заме

@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4dee5c9a-3dfc-4ea7-a5e8-5e3d280e26ad
+UID:b9a156c0-efff-40c1-9923-d2eab96022a4
 SUMMARY:Приветственное слово участникам конгресса
-DTSTAMP:20250823T184600Z
+DTSTAMP:20251031T105200Z
 DTSTART:20201009T055000Z
 DTEND:20201009T060000Z
 DESCRIPTION:Козлов Роман Сергеевич - доктор медицинских наук\, профессор\, 

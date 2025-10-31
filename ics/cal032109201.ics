@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4b5a5eae-8c63-4f61-86fd-73c8a9a94fcb
+UID:6b385757-bcfc-41f3-9a6b-e2f5fc4c772a
 SUMMARY:Проблемы антибиотикорезистентности ведущих патогенов у пациентов с 
 	муковисцидозом
-DTSTAMP:20250823T184600Z
+DTSTAMP:20251031T105200Z
 DTSTART:20201009T062000Z
 DTEND:20201009T064000Z
 DESCRIPTION:Поликарпова Светлана Вениаминовна - кандидат медицинских наук\,

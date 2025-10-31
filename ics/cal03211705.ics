@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:cff2cb99-ffcf-4ab1-b0db-562db3738b10
+UID:0c7325c5-15c8-4009-ac63-358a822fd0db
 SUMMARY:Тенденции антибиотикорезистентности внебольничных респираторных пат
 	огенов
-DTSTAMP:20250823T184600Z
+DTSTAMP:20251031T105200Z
 DTSTART:20201009T140500Z
 DTEND:20201009T143500Z
 DESCRIPTION:Дехнич Андрей Владимирович - кандидат медицинских наук\, замест

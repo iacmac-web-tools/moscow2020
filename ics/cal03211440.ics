@@ -5,10 +5,10 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:75901686-82ae-4a02-8e6d-37363de11302
+UID:02d1cd3f-8293-457e-b8ef-3bc19f810b03
 SUMMARY:Методические рекомендации по локальному мониторингу антибиотикорези
 	стентности: цели и перспективы
-DTSTAMP:20250823T184600Z
+DTSTAMP:20251031T105200Z
 DTSTART:20201009T114000Z
 DTEND:20201009T120500Z
 DESCRIPTION:Кузьменков Алексей Юрьевич - кандидат медицинских наук заместит
